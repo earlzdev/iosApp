@@ -26,6 +26,7 @@ struct MineView : View {
                 .tabItem() {
                     Label("Fun fact", systemImage: "hand.thumbsup")
                 }
+            
         }
     }
 }
